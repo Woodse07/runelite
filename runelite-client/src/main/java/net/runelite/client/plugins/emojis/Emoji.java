@@ -93,6 +93,7 @@ enum Emoji
 	XD("Xd"),
 	SPOON("--o"),
 	COW("3:O"),
+	WEARY_FACE("Dx"),
 	;
 
 	private static final Map<String, Emoji> emojiMap;
